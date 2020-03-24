@@ -1,2 +1,2 @@
 # epimed.github.io
-EpiMed Open COurse
+EpiMed Open Course
