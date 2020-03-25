@@ -24,8 +24,8 @@ For the two first weeks, we plan to define a common framework corresponding to t
 
 We propose the following plan
 1. First watch two following videos: 
- - Linear Models Pt.1 - Linear Regression <a href="https://www.youtube.com/watch?v=nk2CQITm_eo" target="_blank">https://www.youtube.com/watch?v=nk2CQITm_eo</a>
- - Linear Models Pt.2 - t-tests and ANOVA <a href="https://www.youtube.com/watch?v=NF5_btOaCig" target="_blank">https://www.youtube.com/watch?v=NF5_btOaCig</a> 
+ -  <a href="https://www.youtube.com/watch?v=nk2CQITm_eo" target="_blank">Linear Models Pt.1 - Linear Regression</a>
+ -  <a href="https://www.youtube.com/watch?v=NF5_btOaCig" target="_blank">Linear Models Pt.2 - t-tests and ANOVA</a> 
 and at your own pace, digest the various notions
  
 2. When you are ready and wish to go into more details, please ask your questions using the mailing list (english or french as you prefer)
@@ -34,11 +34,11 @@ and at your own pace, digest the various notions
 
 To go further (in french): 
 
-- Régression linéaire simple https://www.youtube.com/watch?v=OcWpu9NuyEI 
-- Régression linéaire multiple https://www.youtube.com/watch?v=_Mbmf3HbMCc 
-- Anova à un facteur https://www.youtube.com/watch?v=M70yMVlQbUs
-- Anova à 2 facteurs sans répétition https://www.youtube.com/watch?v=bpM_PL2RVcY 
-- Anova à 2 facteurs avec interaction https://www.youtube.com/watch?v=65sUYrDRFKU&t=881s 
+- <a href="https://www.youtube.com/watch?v=OcWpu9NuyEI" target="_blank">Régression linéaire simple          </a> 
+- <a href="https://www.youtube.com/watch?v=_Mbmf3HbMCc" target="_blank">Régression linéaire multiple        </a> 
+- <a href="https://www.youtube.com/watch?v=M70yMVlQbUs" target="_blank">Anova à un facteur                  </a>
+- <a href="https://www.youtube.com/watch?v=bpM_PL2RVcY" target="_blank">Anova à 2 facteurs sans répétition  </a> 
+- <a href="https://www.youtube.com/watch?v=65sUYrDRFKU" target="_blank">Anova à 2 facteurs avec interaction </a>
 
 
 * * *
