@@ -18,7 +18,7 @@ Katia, Florent et Sophie
 
 # Sessions 1 - Linear models
 
-23 - 27 March 2020
+23 - 3 March 2020
 
 For the two first weeks, we plan to define a common framework corresponding to the main questions that are usually addressed in statistics: linear models.
 
@@ -32,17 +32,18 @@ and at your own pace, digest the various notions
 
 3. We (or anybody who has something to say about the subject) will answer your questions collectively using the mailing list, suggest you more web links …
 
+To go further (in french): 
+
+- Régression linéaire simple https://www.youtube.com/watch?v=OcWpu9NuyEI <https://www.youtube.com/watch?v=OcWpu9NuyEI>
+- Régression linéaire multiple https://www.youtube.com/watch?v=_Mbmf3HbMCc <https://www.youtube.com/watch?v=_Mbmf3HbMCc>
+- Anova à un facteur https://www.youtube.com/watch?v=M70yMVlQbUs <https://www.youtube.com/watch?v=M70yMVlQbUs> 
+- Anova à 2 facteurs sans répétition https://www.youtube.com/watch?v=bpM_PL2RVcY <https://www.youtube.com/watch?v=bpM_PL2RVcY>
+- Anova à 2 facteurs avec interaction https://www.youtube.com/watch?v=65sUYrDRFKU&t=881s <https://www.youtube.com/watch?v=65sUYrDRFKU&t=881s>
+
+
 * * *
 
-# Session 2 - Linear models with several explanatory variables
-
-30 April - 3 March 2020
-
-coming soon...
-
-* * *
-
-# Session 3 - Presentation of tools developed by EpiMed
+# Session 2 - Presentation of tools developed by EpiMed
 
 6 - 10 April 2020
 
@@ -64,3 +65,11 @@ In this session, we would like to share with you some tools that we developed to
 coming soon...
 
 * * *
+
+
+# Web ressources
+
+- https://bioinfo-fr.net 
+- https://statquest.org 
+- https://www.fun-mooc.fr/courses/course-v1:USPC+37028+session01/about 
+- http://math.agrocampus-ouest.fr/ 
