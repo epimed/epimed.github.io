@@ -11,7 +11,7 @@ For the two first weeks, we plan to define a common framework corresponding to t
 We propose the following plan
 1. First watch two following videos : 
  - Linear Models Pt.1 - Linear Regression [https://www.youtube.com/watch?v=nk2CQITm_eo](https://www.youtube.com/watch?v=nk2CQITm_eo)
- - Linear Models Pt.2 - t-tests and ANOVA https://www.youtube.com/watch?v=NF5_btOaCig
+ - Linear Models Pt.2 - t-tests and ANOVA <a href="https://www.youtube.com/watch?v=NF5_btOaCig" target="_blank">https://www.youtube.com/watch?v=NF5_btOaCig</a> 
 and at your own pace, digest the various notions
  
 2. When you are ready and wish to go into more details, please ask your questions using the mailing list epimed-open-course@univ-grenoble-alpes.fr (english or french as you prefer)
