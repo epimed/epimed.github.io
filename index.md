@@ -50,7 +50,7 @@ In this session, we would like to share with you some tools that we developed to
 <a href="http://epimed.univ-grenoble-alpes.fr/database/" target="_blank">EpiMed Database</a> is a web application for gene-related and clinical meta-data processing.
 
 1. Please, watch a tutorial: <a href="https://youtu.be/QBXUFVdreMk" target="_blank">video</a>
-2. Download slides: <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/EpiMed_Open_Course_update_gene_symbols_with_EpiMed_database.pdf">slides</a>
+2. Download slides: <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/EpiMed_Open_Course_update_gene_symbols_with_EpiMed_database.pdf" target="_blank">slides</a>
 3. Answer the Quiz questions: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtkCynPExJo3oFhmtnE-9Iwgx3SBI8zCXCREWshm6saKV1tQ/viewform?vc=0&c=0&w=1" target="_blank">Quiz</a>
 4. If you have questions or comments, please contact us via the mailing list
 
