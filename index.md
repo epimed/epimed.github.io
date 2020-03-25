@@ -18,6 +18,8 @@ Katia, Florent et Sophie
 
 # Sessions 1 - Linear models
 
+Week 1: 23 - 27 March 2020
+
 For the two first weeks, we plan to define a common framework corresponding to the main questions that are usually addressed in statistics: linear models.
 
 We propose the following plan
@@ -33,6 +35,8 @@ and at your own pace, digest the various notions
 * * *
 
 # Session 2 - Linear models with several explanatory variables
+
+Week 2: 30 April - 3 March 2020
 
 coming soon...
 
@@ -54,6 +58,9 @@ In this session, we would like to share with you some tools that we developed to
 * If you have questions or comments, please contact us via the mailing list
 
 # Session 4 - Artificial Intelligence for omics
+
+Week 3: 13 - 17 April 2020
+
 coming soon...
 
 * * *
