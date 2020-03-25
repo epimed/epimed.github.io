@@ -34,11 +34,11 @@ and at your own pace, digest the various notions
 
 To go further (in french): 
 
-- Régression linéaire simple https://www.youtube.com/watch?v=OcWpu9NuyEI <https://www.youtube.com/watch?v=OcWpu9NuyEI>
-- Régression linéaire multiple https://www.youtube.com/watch?v=_Mbmf3HbMCc <https://www.youtube.com/watch?v=_Mbmf3HbMCc>
-- Anova à un facteur https://www.youtube.com/watch?v=M70yMVlQbUs <https://www.youtube.com/watch?v=M70yMVlQbUs> 
-- Anova à 2 facteurs sans répétition https://www.youtube.com/watch?v=bpM_PL2RVcY <https://www.youtube.com/watch?v=bpM_PL2RVcY>
-- Anova à 2 facteurs avec interaction https://www.youtube.com/watch?v=65sUYrDRFKU&t=881s <https://www.youtube.com/watch?v=65sUYrDRFKU&t=881s>
+- Régression linéaire simple https://www.youtube.com/watch?v=OcWpu9NuyEI 
+- Régression linéaire multiple https://www.youtube.com/watch?v=_Mbmf3HbMCc 
+- Anova à un facteur https://www.youtube.com/watch?v=M70yMVlQbUs
+- Anova à 2 facteurs sans répétition https://www.youtube.com/watch?v=bpM_PL2RVcY 
+- Anova à 2 facteurs avec interaction https://www.youtube.com/watch?v=65sUYrDRFKU&t=881s 
 
 
 * * *
