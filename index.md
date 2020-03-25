@@ -4,12 +4,11 @@ layout: default
 
 Dear all, 
 
-Welcome to the EpiMed Open Course initiative.
-
+Welcome to EpiMed Open Course initiative.
 
 Looking forward to reading your questions and comments !
 
-We hope that this distant interactive course will initiate dynamic and constructive exchanges focussed on bioinformatics and biostatistics subjects that we are all interested in, and that we will all learn from one another.
+We hope that this distant interactive course will initiate dynamic and constructive exchanges focused on bioinformatics and biostatistics subjects that we are all interested in, and that we will all learn from one another.
 
 Best wishes to you all,
 
@@ -45,14 +44,14 @@ Week 3: 6 - 10 April 2020
 
 In this session, we would like to share with you some tools that we developed to simplify our work with omic data. We hope that these tools could also be useful in your projects.
 
-### EpiMed Database - Update a list of gene symbols
+## 1. EpiMed Database - Update a list of gene symbols
 
 <a href="http://epimed.univ-grenoble-alpes.fr/database/" target="_blank">EpiMed Database</a> is a web application for gene-related and clinical meta-data processing.
 
-1. Please, watch a tutorial: <a href="https://youtu.be/QBXUFVdreMk" target="_blank">video</a>
-2. Download slides: <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/EpiMed_Open_Course_update_gene_symbols_with_EpiMed_database.pdf" target="_blank">slides</a>
-3. Answer the Quiz questions: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtkCynPExJo3oFhmtnE-9Iwgx3SBI8zCXCREWshm6saKV1tQ/viewform?vc=0&c=0&w=1" target="_blank">Quiz</a>
-4. If you have questions or comments, please contact us via the mailing list
+* Please, watch a tutorial: <a href="https://youtu.be/QBXUFVdreMk" target="_blank">video</a>
+* Download slides: <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/EpiMed_Open_Course_update_gene_symbols_with_EpiMed_database.pdf" target="_blank">slides</a>
+* Answer the Quiz questions: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtkCynPExJo3oFhmtnE-9Iwgx3SBI8zCXCREWshm6saKV1tQ/viewform?vc=0&c=0&w=1" target="_blank">Quiz</a>
+* If you have questions or comments, please contact us via the mailing list
 
 # Session 4 - Artificial Intelligence for omics
 coming soon...
