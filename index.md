@@ -16,7 +16,7 @@ Katia, Florent et Sophie
 
 * * *
 
-# Sessions 1 - Linear models
+# Sessions 1 and 2- Linear models
 
 23 - 3 March 2020
 
@@ -43,7 +43,7 @@ To go further (in french):
 
 * * *
 
-# Session 2 - Presentation of tools developed by EpiMed
+# Session 3 - Presentation of tools developed by EpiMed
 
 6 - 10 April 2020
 
@@ -58,7 +58,7 @@ In this session, we would like to share with you some tools that we developed to
 * Answer the Quiz questions: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtkCynPExJo3oFhmtnE-9Iwgx3SBI8zCXCREWshm6saKV1tQ/viewform?vc=0&c=0&w=1" target="_blank">Quiz</a>
 * If you have questions or comments, please contact us via the mailing list
 
-# Session 3 - Artificial Intelligence for omics
+# Session 4 - Artificial Intelligence for omics
 
 13 - 17 April 2020
 
