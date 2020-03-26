@@ -51,7 +51,7 @@ In this session, we would like to share with you some tools that we developed to
 
 ### 3.1. EpiMed Database - Update a list of gene symbols
 
-<a href="http://epimed.univ-grenoble-alpes.fr/database/" target="_blank">EpiMed Database</a> is a web application for gene-related and clinical meta-data processing. I this first video we explain how to update / convert a list of gene symbols with EpiMed Database.
+<a href="http://epimed.univ-grenoble-alpes.fr/database/" target="_blank">EpiMed Database</a> is a web application for gene-related and clinical meta-data processing. In this first video we explain how to update / convert a list of gene symbols with EpiMed Database.
 
 * Please, watch a tutorial: <a href="https://youtu.be/QBXUFVdreMk" target="_blank">Update a list of gene symbols</a> (16 min)
 * Download slides: <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/EpiMed_Open_Course_update_gene_symbols_with_EpiMed_database.pdf" target="_blank">slides</a>
