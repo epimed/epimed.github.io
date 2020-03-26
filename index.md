@@ -79,7 +79,7 @@ In this session, we would like to share with you some tools that we developed to
 
 ### 4.4. Supervised Machine Learning
 * <a href="https://www.youtube.com/watch?v=yIYKR4sgzI8" target="_blank">**Logistic Regression**</a> (9 min)
-* <a href="https://www.youtube.com/watch?v=efR1C6CvhmE" target="_blank">Support Vector Machines (SVM)</a> (21 min)
+* <a href="https://www.youtube.com/watch?v=efR1C6CvhmE" target="_blank">**Support Vector Machines (SVM)**</a> (21 min)
 * Optional: <a href="https://www.youtube.com/watch?v=Toet3EiSFcM" target="_blank">SVM with Polynomial Kernel</a> (8 min)
 * Optional: <a href="https://www.youtube.com/watch?v=Qc5IyLW_hns" target="_blank">SVM with RBF Kernel</a> (16 min)
 * <a href="https://www.youtube.com/watch?v=J4Wdy0Wc_xQ" target="_blank">Random Forest</a> (10 min)
