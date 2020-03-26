@@ -53,17 +53,19 @@ In this session, we would like to share with you some tools that we developed to
 
 <a href="http://epimed.univ-grenoble-alpes.fr/database/" target="_blank">EpiMed Database</a> is a web application for gene-related and clinical meta-data processing. I this first video we explain how to update / convert a list of gene symbols with EpiMed Database.
 
-* Please, watch a tutorial: <a href="https://youtu.be/QBXUFVdreMk" target="_blank">video</a>
+* Please, watch a tutorial: <a href="https://youtu.be/QBXUFVdreMk" target="_blank">Update a list of gene symbols</a> (16 min)
 * Download slides: <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/EpiMed_Open_Course_update_gene_symbols_with_EpiMed_database.pdf" target="_blank">slides</a>
 * Answer the Quiz questions: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtkCynPExJo3oFhmtnE-9Iwgx3SBI8zCXCREWshm6saKV1tQ/viewform?vc=0&c=0&w=1" target="_blank">Quiz</a>
 * If you have questions or comments, please contact us via the mailing list
+
+* * *
 
 # Session 4 - Artificial Intelligence for omics
 
 13 - 17 April 2020
 
 ## 1. Introduction to Artificial Intelligence and Machine Learning for biologists
-* <a href="https://www.youtube.com/watch?v=Gv9_4yMHFhI" target="_blank">A Gentle Introduction to Machine Learning</a> (12 min)
+* <a href="https://www.youtube.com/watch?v=Gv9_4yMHFhI" target="_blank">A Gentle Introduction to Machine Learning</a> (13 min)
 * <a href="https://www.youtube.com/watch?v=mWlxpvsli0s" target="_blank">Omics data analysis towards precision medicine: a machine learning approach</a> (45 min)
 
 other parts are coming soon...
