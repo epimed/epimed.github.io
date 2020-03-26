@@ -49,7 +49,7 @@ To go further (in French):
 
 In this session, we would like to share with you some tools that we developed to simplify our work with omics data. We hope that these tools could also be useful in your projects.
 
-## 1. EpiMed Database - Update a list of gene symbols
+### 3.1. EpiMed Database - Update a list of gene symbols
 
 <a href="http://epimed.univ-grenoble-alpes.fr/database/" target="_blank">EpiMed Database</a> is a web application for gene-related and clinical meta-data processing. I this first video we explain how to update / convert a list of gene symbols with EpiMed Database.
 
@@ -64,27 +64,27 @@ In this session, we would like to share with you some tools that we developed to
 
 13 - 17 April 2020
 
-## 1. Introduction to Artificial Intelligence and Machine Learning
+### 4.1. Introduction to Artificial Intelligence and Machine Learning
 * <a href="https://www.youtube.com/watch?v=Gv9_4yMHFhI" target="_blank">**A Gentle Introduction to Machine Learning**</a> (13 min)
 * Optional: <a href="https://www.youtube.com/watch?v=mWlxpvsli0s" target="_blank">Omics data analysis towards precision medicine: a machine learning approach</a> (45 min)
 
-## 2. Unsupervised Machine Learning and visualization of omics data
+### 4.2. Unsupervised Machine Learning and visualization of omics data
 * <a href="https://www.youtube.com/watch?v=FgakZw6K1QQ" target="_blank">**Principal Component Analysis (PCA)**</a> (22 min)
 * Optional: <a href="https://www.youtube.com/watch?v=NEaUSP4YerM" target="_blank">t-SNE</a> (12 min)
 * <a href="https://www.youtube.com/watch?v=7xHsRkOdVwo" target="_blank">Hierarchical Clustering</a> (12 min)
 
-## 3. Machine Learning fundamentals
+### 4.3. Machine Learning fundamentals
 * <a href="https://www.youtube.com/watch?v=EuBBz3bI-aA" target="_blank">Bias and Variance</a> (7 min)
 * <a href="https://www.youtube.com/watch?v=fSytzGwwBVw" target="_blank">Cross Validation</a> (5 min)
 
-## 4. Supervised Machine Learning
+### 4.4. Supervised Machine Learning
 * <a href="https://www.youtube.com/watch?v=yIYKR4sgzI8" target="_blank">**Logistic Regression**</a> (9 min)
 * <a href="https://www.youtube.com/watch?v=efR1C6CvhmE" target="_blank">Support Vector Machines (SVM)</a> (21 min)
 * Optional: <a href="https://www.youtube.com/watch?v=Toet3EiSFcM" target="_blank">SVM with Polynomial Kernel</a> (8 min)
 * Optional: <a href="https://www.youtube.com/watch?v=Qc5IyLW_hns" target="_blank">SVM with RBF Kernel</a> (16 min)
 * <a href="https://www.youtube.com/watch?v=J4Wdy0Wc_xQ" target="_blank">Random Forest</a> (10 min)
 
-## 5. Introduction to Deep Learning (Neural Networks)
+### 4.5. Introduction to Deep Learning (Neural Networks)
 
 The MIT course linked below is one of the best in Deep Learning available online. The course is excellent, clearly explained and updated every year. We propose you to watch the first introductory lecture. Nevertheless, if you are interested in Neural Networks, we highly recommend you to follow the entire course. 
 
