@@ -53,10 +53,21 @@ In this session, we would like to share with you some tools that we developed to
 
 <a href="http://epimed.univ-grenoble-alpes.fr/database/" target="_blank">EpiMed Database</a> is a web application for gene-related and clinical meta-data processing. In this first video we explain how to update / convert a list of gene symbols with EpiMed Database.
 
-* Please, watch a tutorial: <a href="https://youtu.be/QBXUFVdreMk" target="_blank">Update a list of gene symbols</a> (16 min)
+* Please, watch a tutorial: <a href="https://youtu.be/QBXUFVdreMk" target="_blank">**Update a list of gene symbols**</a> (16 min)
 * Download slides: <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/EpiMed_Open_Course_update_gene_symbols_with_EpiMed_database.pdf" target="_blank">slides</a>
 * Answer the Quiz questions: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtkCynPExJo3oFhmtnE-9Iwgx3SBI8zCXCREWshm6saKV1tQ/viewform?vc=0&c=0&w=1" target="_blank">Quiz</a>
 * If you have questions or comments, please contact us via the mailing list
+
+### 3.2. Manage public omics data from NCBI GEO
+
+EpiMed developed specific tools to simplify managing omics data and corresponding bio-clinical annotations from popular public repositories, for example, NCBI GEO.
+
+* Tutorial: <a href="https://youtu.be/lSEifh6JoCA" target="_blank">**Manage public omics data from NCBI GEO**</a> (19 min)
+* Download slides: <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/EpiMed_Open_Course_manage_omics_data_from_NCBI_GEO.pdf" target="_blank">slides</a>
+* Tools mentioned in the tutorial:
+	- <a href="https://github.com/fchuffar/epimedtools" target="_blank">R package epimedtools</a> (Florent Chuffart)
+	- <a href="http://epimed.univ-grenoble-alpes.fr/database/series" target="_blank">EpiMed Database: bio-clinical annotations</a> (Ekaterina Flin)
+
 
 * * *
 
