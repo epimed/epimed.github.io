@@ -68,7 +68,7 @@ EpiMed developed specific tools to simplify managing omics data and correspondin
 * Tools mentioned in the tutorial:
 	- <a href="https://github.com/fchuffar/epimedtools" target="_blank">R package epimedtools</a> (Florent Chuffart)
 	- <a href="http://epimed.univ-grenoble-alpes.fr/database/series" target="_blank">EpiMed Database: bio-clinical annotations</a> (Ekaterina Flin)
-
+* For R or Python users, an API is available to query clinical data of EpiMed Database directly from your code. Please, visit this <a href="http://epimed.univ-grenoble-alpes.fr/database/apiQuerySamples" target="_blank">documentation page</a>. 
 
 * * *
 
