@@ -78,7 +78,7 @@ EpiMed developed specific tools to simplify managing omics data and correspondin
 
 ### 4.1. Introduction to Artificial Intelligence and Machine Learning
 * <a href="https://www.youtube.com/watch?v=Gv9_4yMHFhI" target="_blank">**A Gentle Introduction to Machine Learning**</a> (13 min)
-* Optional: <a href="https://www.youtube.com/watch?v=mWlxpvsli0s" target="_blank">Omics data analysis towards precision medicine: a machine learning approach</a> (45 min)
+* <a href="https://www.youtube.com/watch?v=mWlxpvsli0s" target="_blank">Omics data analysis towards precision medicine: a machine learning approach</a> (45 min)
 
 ### 4.2. Unsupervised Machine Learning and visualization of omics data
 * <a href="https://www.youtube.com/watch?v=FgakZw6K1QQ" target="_blank">**Principal Component Analysis (PCA)**</a> (22 min)
