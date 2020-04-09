@@ -80,12 +80,11 @@ Welcome to Session 4 of EpiMed Open Course introducing AI for omics.
 
 The organization of the session is explained in the video below:
 
-* <a href="https://www.youtube.com/watch?v=6TdYMot9KUo" target="_blank">Presentation of the session and organization notes</a> (17 min, <font color="red">in French</font>).
+* <a href="https://youtu.be/s9iq6OIgDTs" target="_blank">Presentation of the session and organization notes</a> (11 min, <font color="red">in French</font>).
 
-The overall session is structured in 5 theoretical parts with several videos to watch. Some of them are optional, depending on your available time and interest. 
+The session is structured in 5 parts with several videos to watch. Some of them are optional, depending on your available time and interest. 
 
-For a practical part, we can propose you to study with us a use case of leukemia type classification from real transcriptomic data, probably in format of an online meeting or webinar. We would like also to organize online meetings for questions and answers. 
-
+If you have questions or comments, please contact us via the mailing list.
 
 ### 4.1. Introduction to Artificial Intelligence and Machine Learning
 * <a href="https://www.youtube.com/watch?v=Gv9_4yMHFhI" target="_blank">**A Gentle Introduction to Machine Learning**</a> (13 min)
