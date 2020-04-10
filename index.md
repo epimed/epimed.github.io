@@ -106,12 +106,19 @@ If you have questions or comments, please contact us via the mailing list.
 * Optional: <a href="https://www.youtube.com/watch?v=Qc5IyLW_hns" target="_blank">SVM with RBF Kernel</a> (16 min)
 * <a href="https://www.youtube.com/watch?v=J4Wdy0Wc_xQ" target="_blank">Random Forest</a> (10 min)
 
-### 4.5. Introduction to Deep Learning (Neural Networks)
+### 4.5. Optional: Introduction to Deep Learning (Neural Networks)
 
 The MIT course linked below is one of the best in Deep Learning available online. The course is excellent, clearly explained and updated every year. We propose you to watch the first introductory lecture. Nevertheless, if you are interested in Neural Networks, we highly recommend you to follow the entire course. 
 
 * <a href="https://www.youtube.com/watch?v=njKP3FqW3Sk" target="_blank">**MIT Course 6.S191: Introduction to Deep Learning**</a> (53 min)
 * Slides: <a href="http://introtodeeplearning.com" target="_blank">http://introtodeeplearning.com</a>
+
+### Use case of leukemia classification 
+
+To complete the theoretical knowledge, we propose you to study with us a use case with real transcriptomic data for leukemia classification as an example. For this use case, we'll see how the data should be prepared for machine learning training and how different ML algorithms may perform on the same dataset.
+
+* <a href="https://www.youtube.com/watch?v=DotE25SLYUA" target="_blank">Use case of leukemia classification - Part 1. Omics data challenges, variable reduction and data normalization.</a> (45 min, <font color="red">narration in French</font>, slides in English)
+* Use case of leukemia classification - Part 2. Training machine learning algorithms. (coming soon, <font color="red">narration in French</font>, slides in English)
 
 * * *
 
