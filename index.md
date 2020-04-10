@@ -101,7 +101,7 @@ If you have questions or comments, please contact us via the mailing list.
 * <a href="https://www.youtube.com/watch?v=EuBBz3bI-aA" target="_blank">Bias and Variance</a> (7 min)
 * <a href="https://www.youtube.com/watch?v=fSytzGwwBVw" target="_blank">Cross Validation</a> (5 min)
 
-* <a href="https://www.youtube.com/watch?v=DotE25SLYUA" target="_blank">Use case of leukemia classification - Part 1. Omics data challenges, variable reduction and data normalization.</a> (45 min, <font color="red">narration in French</font>, slides in English)
+* <a href="https://www.youtube.com/watch?v=DotE25SLYUA" target="_blank">Use case of leukemia classification - Part 1. Omics data challenges, variable reduction, data normalization and cross-validation.</a> (45 min, <font color="red">narration in French</font>, slides in English)
 
 
 ### 4.4. Supervised Machine Learning
