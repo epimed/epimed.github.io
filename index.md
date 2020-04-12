@@ -110,7 +110,7 @@ If you have questions or comments, please contact us via the mailing list.
 * Optional: <a href="https://www.youtube.com/watch?v=Qc5IyLW_hns" target="_blank">SVM with RBF Kernel</a> (16 min)
 * <a href="https://www.youtube.com/watch?v=J4Wdy0Wc_xQ" target="_blank">Random Forest</a> (10 min)
 
-* <a href="https://youtu.be/6JSUMtRSgO0" " target="_blank">Use case of leukemia classification - Part 2. Training machine learning algorithms.</a> (38 min, <font color="red">narration in French</font>, slides in English)
+* <a href="https://youtu.be/6JSUMtRSgO0" target="_blank">Use case of leukemia classification - Part 2. Training machine learning algorithms.</a> (38 min, <font color="red">narration in French</font>, slides in English)
 
 ### 4.5. Optional: Introduction to Deep Learning (Neural Networks)
 
