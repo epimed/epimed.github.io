@@ -101,7 +101,7 @@ If you have questions or comments, please contact us via the mailing list.
 * <a href="https://www.youtube.com/watch?v=EuBBz3bI-aA" target="_blank">Bias and Variance</a> (7 min)
 * <a href="https://www.youtube.com/watch?v=fSytzGwwBVw" target="_blank">Cross Validation</a> (5 min)
 
-* <a href="https://www.youtube.com/watch?v=DotE25SLYUA" target="_blank">Use case of leukemia classification - Part 1. Omics data challenges, variable reduction, data normalization and cross-validation.</a> (45 min, <font color="red">narration in French</font>, slides in English)
+* <a href="https://www.youtube.com/watch?v=DotE25SLYUA" target="_blank">Use case of leukemia classification - Part 1. Omics data challenges, variable reduction, data normalization and cross-validation.</a> (45 min, <font color="red">narration in French</font>, <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/Artificial_Intelligence_for_Omics_v2_part1.pdf" target="_blank">slides in English</a>)
 
 ### 4.4. Supervised Machine Learning
 * <a href="https://www.youtube.com/watch?v=yIYKR4sgzI8" target="_blank">**Logistic Regression**</a> (9 min)
@@ -110,7 +110,7 @@ If you have questions or comments, please contact us via the mailing list.
 * Optional: <a href="https://www.youtube.com/watch?v=Qc5IyLW_hns" target="_blank">SVM with RBF Kernel</a> (16 min)
 * <a href="https://www.youtube.com/watch?v=J4Wdy0Wc_xQ" target="_blank">Random Forest</a> (10 min)
 
-* <a href="https://youtu.be/6JSUMtRSgO0" target="_blank">Use case of leukemia classification - Part 2. Training machine learning algorithms.</a> (38 min, <font color="red">narration in French</font>, slides in English)
+* <a href="https://youtu.be/6JSUMtRSgO0" target="_blank">Use case of leukemia classification - Part 2. Training machine learning algorithms.</a> (38 min, <font color="red">narration in French</font>, <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/Artificial_Intelligence_for_Omics_v2_part2.pdf" target="_blank">slides in English</a>)
 
 ### 4.5. Optional: Introduction to Deep Learning (Neural Networks)
 
