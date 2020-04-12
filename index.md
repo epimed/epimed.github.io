@@ -101,7 +101,7 @@ If you have questions or comments, please contact us via the mailing list.
 * <a href="https://www.youtube.com/watch?v=EuBBz3bI-aA" target="_blank">Bias and Variance</a> (7 min)
 * <a href="https://www.youtube.com/watch?v=fSytzGwwBVw" target="_blank">Cross Validation</a> (5 min)
 
-* <a href="https://www.youtube.com/watch?v=DotE25SLYUA" target="_blank">Use case of leukemia classification - Part 1. Omics data challenges, variable reduction, data normalization and cross-validation.</a> (45 min, <font color="red">narration in French</font>, <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/Artificial_Intelligence_for_Omics_v2_part1.pdf" target="_blank">slides in English</a>)
+* <a href="https://youtu.be/DotE25SLYUA" target="_blank">Use case of leukemia classification - Part 1. Omics data challenges, variable reduction, data normalization and cross-validation.</a> (45 min, <font color="red">narration in French</font>, <a href="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/Artificial_Intelligence_for_Omics_v2_part1.pdf" target="_blank">slides in English</a>)
 
 ### 4.4. Supervised Machine Learning
 * <a href="https://www.youtube.com/watch?v=yIYKR4sgzI8" target="_blank">**Logistic Regression**</a> (9 min)
