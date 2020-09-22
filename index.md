@@ -49,7 +49,21 @@ To go further (in French):
 
 In this session, we would like to share with you some tools that we developed to simplify our work with omics data. We hope that these tools could also be useful in your projects.
 
-### 3.1. EpiMed Database - Update a list of gene symbols
+### 3.1  Biomarker discovery and general presentation of EpiMed pipelines and tools
+
+Computational translational epigenetics: concept-driven omics analyses. 
+
+<a href ="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/marker_discovery_epimed_facility_200922.pdf" target="_blank">Slides for parts 1 and 2</a>
+
+1. The awakening of silent genes in malignancies : a new biomarker discovery strategy 
+* <a href ="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/part1_marker_discovery.mov" target="_blank">Recorded presentation (22 min, MOV format)</a>
+
+2. Concept driven omics analyses: EpiMed information system and pipelines
+* <a href ="http://epimed.univ-grenoble-alpes.fr/downloads/epimed_open_course/part2_epimed_facility.mov" target="_blank">Recorded presentation (9 min, MOV format)</a>
+
+
+
+### 3.2. EpiMed Database - Update a list of gene symbols
 
 <a href="http://epimed.univ-grenoble-alpes.fr/database/" target="_blank">EpiMed Database</a> is a web application for gene-related and clinical meta-data processing. In this first video we explain how to update / convert a list of gene symbols with EpiMed Database.
 
@@ -59,7 +73,7 @@ In this session, we would like to share with you some tools that we developed to
 * If you are R or Python user, you may also be interested in an API query for gene annotation. Please, visit this <a href="http://epimed.univ-grenoble-alpes.fr/database/apiQueryGenes" target="_blank">documentation page</a> that explains how to use EpiMed Database directly from your code. 
 * If you have questions or comments, please contact us via the mailing list
 
-### 3.2. Manage public omics data from NCBI GEO
+### 3.3. Manage public omics data from NCBI GEO
 
 EpiMed developed specific tools to simplify managing omics data and corresponding bio-clinical annotations from popular public repositories, for example, NCBI GEO.
 
